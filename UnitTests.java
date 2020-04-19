@@ -1,3 +1,9 @@
+/**
+* Midterm2
+* Unit that that checks the calculation
+* CS108-4
+*@author YeonJunLee
+*/
 package com.minicalc.test;
 
 public class UnitTests {
